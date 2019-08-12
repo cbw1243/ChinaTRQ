@@ -11,7 +11,7 @@ Step 2. Unzip the downloaded zipped file;
 
 Step 3. Go to the “Codes” folder and then open the “do.r” file using the R software. If you do not have one, you need to install R (with R studio for better experience) into your computer. 
 
-Step 4. Simply run all the codes in the "do.r" file. Some figures will be automatically generated under the “Codes.r” folder. The regression results will also appear in the R console, though they are not saved as unique files. 
+Step 4. Simply run all the codes in the "do.r" file. Some figures will be automatically generated under the “Codes” folder. The regression results will also appear in the R console, though they are not saved as unique files. 
 
 # Contact
 Please contact Bowen Chen (Email: bwchen0719@gmail.com) if you have questions.
