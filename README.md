@@ -14,7 +14,7 @@ Step 3. Go to the “Codes” folder and then open the “do.r” file using the
 Step 4. Simply run all the codes in the "do.r" file. Some figures will be automatically generated under the “Codes” folder. The regression results will also appear in the R console, though they are not saved as unique files. 
 
 # Contact
-Please contact Bowen Chen (Email: bwchen0719@gmail.com) if you have questions.
+Please contact [Bowen Chen](https://sites.google.com/view/bwchen) (Email: bwchen0719@gmail.com) if you have questions.
 
 # Further Information
 We also create a website that displays the domestic and international prices (at the border) of grain commodities in China. Please click [here](https://bwchen.shinyapps.io/ChinaGrainPrice/) to access the website. 
