@@ -1,6 +1,6 @@
 # General information
 
-This folder contains R codes for replicating the key results in the paper “Tariff Quota Administration in China's Grain Markets: An Empirical Assessment” by B. Chen, N. Villoria, and X. Tian published at Agricultural Economics. 
+This folder contains R codes for replicating the key results in the paper **“Tariff Quota Administration in China's Grain Markets: An Empirical Assessment”** by B. Chen, N. Villoria, and X. Tian published at **Agricultural Economics**. 
 
 # Instructions 
 For replicating the paper, go to the “Codes” folder and then simply run the R codes in the “do.r” file. Some figures will be automatically generated under the “Codes.r” folder. The regression results will also appear in R, though they are not saved as unique files. 
