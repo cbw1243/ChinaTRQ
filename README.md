@@ -1,6 +1,6 @@
 # General information
 
-This folder contains R codes for replicating the main results of the paper titled **“Tariff Quota Administration in China's Grain Markets: An Empirical Assessment”** by B. Chen, N. Villoria, and X. Tian. The paper is to be published at *Agricultural Economics*. 
+This folder contains R codes for replicating the main results of the paper titled **“Tariff Quota Administration in China's Grain Markets: An Empirical Assessment”** by B. Chen, N. Villoria, and X. Tian (2019). The paper is published at *Agricultural Economics*. Link [here](https://onlinelibrary.wiley.com/doi/10.1111/agec.12549). 
 
 # Instructions 
 For replicating the paper, the most efficient way is to download all the files at once and then run the codes. Specifically, you can follow the steps below to do the replications:
@@ -18,3 +18,6 @@ Please contact [Bowen Chen](https://sites.google.com/view/bwchen) (Email: bwchen
 
 # Further Information
 We also create a website that displays the domestic and international prices (at the border) of grain commodities in China. Please click [here](https://bwchen.shinyapps.io/ChinaGrainPrice/) to access the website. 
+
+# Recommended citation
+B. Chen, N. Villoria, X. Tian. Tariff Quota Administration in China's Grain Markets: An Empirical Assessment. Agricultural Economics. 2019. 
